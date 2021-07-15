@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
 
 ## Analysis Overview
 The purpose of this analysisis took look at Amazon reviews written by memeber of the paid Amazon Vine program. A small fee is paid by companies such as Sellby to Amazon Vine members, requiring them to publish a review. Out of the 50 datasets available, review left for books were chosen. 
